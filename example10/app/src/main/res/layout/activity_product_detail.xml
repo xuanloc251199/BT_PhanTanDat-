@@ -103,7 +103,8 @@
                         android:scaleX=".5"
                         android:scaleY=".5"
                         android:transformPivotX="110dp"
-                        android:transformPivotY="15dp" />
+                        android:transformPivotY="15dp"
+                        android:progressTint="@color/teal_200"/>
                 </LinearLayout>
 
                 <TextView
