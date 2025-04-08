@@ -21,13 +21,6 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_login);
-        TextView tvRegister;
-        tvRegister = findViewById(R.id.tvRegister);
-        tvRegister.setOnClickListener(view -> {
-            Toast.makeText(this, "register", Toast.LENGTH_SHORT).show();
-            Log.e("REGISTER", "lỗi");
-            Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
-            startActivity(intent);
-        });
+
     }
 }

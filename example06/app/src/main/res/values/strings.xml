@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Example06</string>
+    <string name="profile_name">Tên tài khoản</string>
+    <string name="profile_email">Profile_Email</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="orders">Đơn hàng</string>
+    <string name="no_orders">Bạn chưa có đơn hàng</string>
+    <string name="shipping_address">Địa chỉ giao hàng</string>
+    <string name="no_address">Không có địa chỉ</string>
+    <string name="payment_method">Phương thức thanh toán</string>
+    <string name="no_cards">Bạn chưa có thẻ</string>
+    <string name="discount_code">Mã giảm giá</string>
+    <string name="has_discount">Bạn có mã giảm giá</string>
+    <string name="settings">Cài đặt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
