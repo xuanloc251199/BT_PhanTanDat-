@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.phantandat.example16"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.phantandat.example16"
         minSdk = 28
-        targetSdk = 34
+        targetSdk = 29
         versionCode = 1
         versionName = "1.0"
 
