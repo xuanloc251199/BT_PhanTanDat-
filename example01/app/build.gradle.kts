@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.phantandat.example01"
-    compileSdk = 34
+    namespace = "com.xuanloc.example01"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.phantandat.example01"
+        applicationId = "com.xuanloc.example01"
         minSdk = 31
         targetSdk = 34
         versionCode = 1
